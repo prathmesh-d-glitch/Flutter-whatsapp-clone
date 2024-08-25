@@ -16,22 +16,30 @@ A fully-featured WhatsApp clone built with Flutter. This app replicates the func
 
 - **📷 Media Sharing**: Share photos, videos, voice messages, and documents directly in chat.
   <img src="https://github.com/user-attachments/assets/f9b156d7-3a4e-495f-9bbd-c6b14483d52d" alt="Media Sharing Screenshot" width="300"/>
-
+< br / >
 - **👤 User Profiles**: Customize user profiles with profile pictures and status messages.
 - **🌙 Dark Mode Support**: Switch between light and dark themes for a better user experience.
 - **🤖 Integrated AI Chatbot**: Utilize the Gemini API to create a chatbot that can:
   - Provide text answers to messages.
+  - < br / >
     <img src="https://github.com/user-attachments/assets/17fdde62-087d-4f34-93ac-57880bc615e9" alt="AI Chatbot Text Answers Screenshot" width="300"/>
+    < br / >
   - Analyze images and offer detailed descriptions.
+  - < br / >
     <img src="https://github.com/user-attachments/assets/b0561f84-41a9-4b74-9f04-2c853236a73e" alt="AI Image Analysis Screenshot" width="300"/>
+    < br / >
 
 - **Send the user's current location.**
+- < br / >
   <img src="https://github.com/user-attachments/assets/c0b79c4b-1d77-45f2-9db9-f4c98ff6128f" alt="Send Location Screenshot" width="300"/>
+  < br / >
 
 - **Record and send audio messages.**
 - **🖼️ Image Generation**: An "Imagine" feature that allows users to generate images based on text commands.
 - **📁 Send Contacts and Documents**: Easily share contacts and documents with other users in chat.
+- < br / >
   <img src="https://github.com/user-attachments/assets/16feca5d-b36c-452d-bfc2-399cf48ed2cc" alt="Send Contacts and Documents Screenshot" width="300"/>
+  < br / >
 
 ## 🛠️ Tech Stack
 
